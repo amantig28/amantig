@@ -1,0 +1,2 @@
+# amantig
+my first repository
